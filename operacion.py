@@ -10,3 +10,11 @@ Type "copyright", "credits" or "license()" for more information.
 	return a*a-b-a+c*d
 
 >>> 
+
+>>>  def operaciones3(a,b,c,d):
+	return a*a-b-a+c+d
+SyntaxError: unexpected indent
+>>> def operaciones3(a,b,c,d):
+	return a*a-b-a+c+d
+
+>>> 
