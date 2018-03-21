@@ -17,4 +17,5 @@ SyntaxError: unexpected indent
 >>> def operaciones3(a,b,c,d):
 	return a*a-b-a+c+d
 
->>> 
+>>> def operaciones(a,b):
+	return 4*a-b+3*b*a
